@@ -18,3 +18,8 @@
 - Learned how to track attempts and end the game
 - GitHub link: https://colab.research.google.com/drive/1NwZ5ur1BGTgVGtnAj8g4JPpGIxuCap0a
 
+## ✅ Day 4 – Loops + Mini Project
+- Practiced `for`, `while`, `break`, and `continue`
+- Built a password checker with 3 attempts
+- GitHub link: https://colab.research.google.com/drive/1wQpOukWwQ-Fa4pK8-xdi6_yBDUHxDZJY
+- GitHub link: https://colab.research.google.com/drive/19lLaVdWaLsEyL4TM-BnXFqm_4mlnPzKt
