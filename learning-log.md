@@ -12,3 +12,8 @@
 - GitHub link: https://colab.research.google.com/drive/1X3-6cDZcNfA7WiYa5RB2NmEr36PmOpxQ
 - GitHub link: https://colab.research.google.com/drive/128YSlYyDLJpxOeGJjkwGBBzCAdNdOwvR
 
+## ✅ Day 3 – Conditionals & Game
+- Learned how `if/elif/else` works
+- Built a number guessing game using random numbers
+- GitHub link: https://colab.research.google.com/drive/1NwZ5ur1BGTgVGtnAj8g4JPpGIxuCap0a
+
