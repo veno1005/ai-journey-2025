@@ -23,3 +23,9 @@
 - Built a password checker with 3 attempts
 - GitHub link: https://colab.research.google.com/drive/1wQpOukWwQ-Fa4pK8-xdi6_yBDUHxDZJY
 - GitHub link: https://colab.research.google.com/drive/19lLaVdWaLsEyL4TM-BnXFqm_4mlnPzKt
+
+## ✅ Day 5 – Lists, Dictionaries & Contact Book
+- Learned how to store and loop through lists and dicts
+- Built a contact book CLI app
+- GitHub link: https://colab.research.google.com/drive/1ac3--Sh7HjEf5QnL4MNaLzjUWF8XmzjP#scrollTo=4SLKGjVrdSFT
+- GitHub link: https://colab.research.google.com/drive/1dOSitqWSPYuCuZhohV8RzbOu9uq66Tyy
