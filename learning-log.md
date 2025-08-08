@@ -29,3 +29,13 @@
 - Built a contact book CLI app
 - GitHub link: https://colab.research.google.com/drive/1ac3--Sh7HjEf5QnL4MNaLzjUWF8XmzjP#scrollTo=4SLKGjVrdSFT
 - GitHub link: https://colab.research.google.com/drive/1dOSitqWSPYuCuZhohV8RzbOu9uq66Tyy
+
+- ## ✅ Day 6 – Functions & Fibonacci
+- Learned how to define and reuse functions
+- Built a Fibonacci number generator
+- GitHub link: https://colab.research.google.com/drive/1siUGpSjVqfrr1rjEskY78Q3ktj4hwoqw
+
+- ## ✅ Day 7 – File Handling & Notes App
+- Learned how to read/write files using `open()`
+- Built a notes CLI app that saves to a text file
+- GitHub link: https://colab.research.google.com/drive/1H8T-tk_GnzAONXglk882oF0G-BV7672z
