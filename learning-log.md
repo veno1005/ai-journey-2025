@@ -39,3 +39,8 @@
 - Learned how to read/write files using `open()`
 - Built a notes CLI app that saves to a text file
 - GitHub link: https://colab.research.google.com/drive/1H8T-tk_GnzAONXglk882oF0G-BV7672z
+
+- ## ✅ Day 8 – Rule-Based Chatbot
+- Built a simple chatbot using string matching
+- Learned about chatbot conversation loops
+- GitHub link: https://colab.research.google.com/drive/1f5b09UXDlAVp3KsNL34vItipF3WQJro7#scrollTo=H7S8u44YTcaV
