@@ -44,3 +44,8 @@
 - Built a simple chatbot using string matching
 - Learned about chatbot conversation loops
 - GitHub link: https://colab.research.google.com/drive/1f5b09UXDlAVp3KsNL34vItipF3WQJro7#scrollTo=H7S8u44YTcaV
+
+## ✅ Day 9 – Error Handling + Calculator CLI
+- Learned to handle errors with try/except
+- Built a calculator that can recover from bad inputs
+- GitHub link: https://colab.research.google.com/drive/1Rya5svnhbpwQ5kr9ADzE0SoQUCDwLu1m
