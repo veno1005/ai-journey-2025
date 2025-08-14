@@ -49,3 +49,9 @@
 - Learned to handle errors with try/except
 - Built a calculator that can recover from bad inputs
 - GitHub link: https://colab.research.google.com/drive/1Rya5svnhbpwQ5kr9ADzE0SoQUCDwLu1m
+
+- ## ✅ Day 10 – Personal Expense Tracker
+- Built a CLI tool to log and view expenses
+- Learned how to combine file handling & error handling
+- GitHub link: https://colab.research.google.com/drive/1YVUpDYgscim4J6yHfDyfNwwiM3vUJjmD
+
