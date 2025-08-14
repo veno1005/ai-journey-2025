@@ -55,3 +55,9 @@
 - Learned how to combine file handling & error handling
 - GitHub link: https://colab.research.google.com/drive/1YVUpDYgscim4J6yHfDyfNwwiM3vUJjmD
 
+- ## ✅ Day 11 – Pandas Expense Analysis
+- Learned basics of Pandas
+- Loaded expense data from CSV
+- Grouped & filtered data for insights
+- GitHub link: https://colab.research.google.com/drive/1IFwIzqdaCS-reShH2jZWty-LS5-dx_Hw
+
