@@ -1,4 +1,4 @@
-# AI Journey – Week 1: Python Basics
+# AI Journey
 
 ## Day 1 – Hello World
 - Ran my first Python script in Google Colab
