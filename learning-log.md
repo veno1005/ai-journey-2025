@@ -61,3 +61,8 @@
 - Grouped & filtered data for insights
 - GitHub link: https://colab.research.google.com/drive/1IFwIzqdaCS-reShH2jZWty-LS5-dx_Hw
 
+- ## ✅ Day 12 – Expense Visualization
+- Learned to create bar and pie charts with Matplotlib
+- Visualized spending per category
+- GitHub link: https://colab.research.google.com/drive/1PV39H9EYFGmqewJsWz8J4wtDpwfhwxOr
+
