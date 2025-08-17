@@ -66,3 +66,8 @@
 - Visualized spending per category
 - GitHub link: https://colab.research.google.com/drive/1PV39H9EYFGmqewJsWz8J4wtDpwfhwxOr
 
+- ## ✅ Day 13 – Weather API CLI
+- Learned to fetch data from a public API
+- Parsed JSON responses in Python
+- GitHub link:https://colab.research.google.com/drive/16_HTQR-Xy8RiMWHCDrE23kWVLwMX9NAC
+
