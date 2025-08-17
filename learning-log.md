@@ -71,3 +71,9 @@
 - Parsed JSON responses in Python
 - GitHub link:https://colab.research.google.com/drive/16_HTQR-Xy8RiMWHCDrE23kWVLwMX9NAC
 
+- ## ✅ Day 14 – Live Crypto Analysis
+- Pulled live data from CoinGecko API
+- Converted JSON to Pandas DataFrame
+- Filtered and sorted cryptocurrencies
+- GitHub link:https://colab.research.google.com/drive/1Mpak_ME-3-yWX01CayY-iXbLua9vTCjM
+
