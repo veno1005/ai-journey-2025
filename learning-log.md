@@ -77,3 +77,9 @@
 - Filtered and sorted cryptocurrencies
 - GitHub link:https://colab.research.google.com/drive/1Mpak_ME-3-yWX01CayY-iXbLua9vTCjM
 
+- ## ✅ Day 15 – Banking Dashboard
+- Built a Streamlit banking dashboard
+- Pulled dummy data from public APIs
+- Visualized balances, transactions, and loan overview
+- GitHub link: https://colab.research.google.com/drive/1vkbG1Y6YgiOojRsJFE5KkJmfJC2V-yUg
+
